@@ -1,5 +1,5 @@
-<p align = "center" >Hi 👋, I'm Virlus Jeanty</p>
-<h3 align="center">A passionate and enthusiast Web developer from Haiti.</h3>
+<h1 align = "center" >Hi 👋, I'm Virlus Jeanty</p>
+<p align="center">A passionate and enthusiast Web developer from Haiti.</h3>
 
 #### 😉 About Me 
 
