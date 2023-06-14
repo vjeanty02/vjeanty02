@@ -21,7 +21,7 @@
 Name | Badges
 --- | ---
 **Design**  |  ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=Canva&logoColor=#blue)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-**Languages**  |  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/sass-%2300599C.svg?style=for-the-badge&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/Csharp-%2300599C.svg?style=for-the-badge&logo=Csharp&logoColor=white) 
+**Languages**  |  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/sass-20232A.svg?style=for-the-badge&logo=sass&logoColor=#white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=Java&logoColor=white) ![C](https://img.shields.io/badge/Csharp-%2300599C.svg?style=for-the-badge&logo=Csharp&logoColor=white) 
 **Frameworks, Platforms and Libraries** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 **Databases**  | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 **CI/CD & Hosting**   | ![GitHub](https://img.shields.io/badge/Github-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-blue?style=for-the-badge&logo=heroku&logoColor=#blue)
@@ -42,6 +42,6 @@ Name | Badges
 <br/>
 
 ### 🤝 Connect with me
-<a href="mailto:vjeanty02@gmail.com"><img src='https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=#blue' height='50px'></a>
-<a href='https://linkedin.com/in/vjeanty02'><img src='https://img.shields.io/badge/LinkedIN-white?style=for-the-badge&logo=linkedin&logoColor=blue' height='50px'/></a>
-<a href='https://twitter.com/vjeanty02'><img src='https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=blue' height='50px'/></a>
+<a href="mailto:vjeanty02@gmail.com"><img src='https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=#blue' height='50px'></a>
+<a href='https://linkedin.com/in/vjeanty02'><img src='https://img.shields.io/badge/LinkedIN-20232A?style=for-the-badge&logo=linkedin&logoColor=blue' height='50px'/></a>
+<a href='https://twitter.com/vjeanty02'><img src='https://img.shields.io/badge/twitter-20232A?style=for-the-badge&logo=twitter&logoColor=blue' height='50px'/></a>
