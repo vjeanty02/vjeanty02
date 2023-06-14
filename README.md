@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Virlus Jeanty, A passionate and enthusiast Web developer from Haiti.
+#### I'm Virlus Jeanty, A passionate and enthusiast Web developer from Haiti.
 
 - 🔭 I’m currently working on web development projects using HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Django and Python.
 - 🌱 I’m currently learning new technologies and frameworks to improve my skills and create responsive and dynamic websites.
