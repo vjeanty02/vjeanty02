@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open source projects related to web optimization or e-commerce.
 - 🤔 I’m looking for help with SEO techniques.
 - 💬 Ask me about web development or programming languages (HTML/CSS/JS)
-- 📫 How to reach me: vjeanty02@gmail.com or @vjeanty02 on GitHub and Twitter.
+- 📫 How to reach me: vjeanty02@gmail.com or @vjeanty02 on LinkedIn and Twitter.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing board games and watching Japanese anime.
 
@@ -30,14 +30,21 @@ Name | Badges
 
 ### 👔 Soft skills
 
-✅ Leadership
+✅ Leadership ✅ Teamwork ✅ Time management ✅ Problem-solving ✅ Good communication skills
 
-✅ Teamwork
 
-✅ Time management
+### ⚡ Statistics
 
-✅ Problem-solving
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjeanty02&langs_count=8&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vjeanty02&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Sley's github stats" /></p>
 
-✅ Good communication skills
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vjeanty02&theme=dark" alt="vjeanty02" /></p>
+<br/>
+
+### 🤝 Connect with me
+<a href="mailto:vjeanty02@gmail.com"><img src='./images/gmail.svg' width='38px'></a>
+<a href='https://linkedin.com/in/www.linkedin.com/in/vjeanty02'><img src='./images/LinkedIN.svg' width='38px'/></a>
+<a href='https://twitter.com/vjeanty02'><img src='./images/Twitter.svg' width='38px'/></a>
+<a href='https://www.hackerrank.com/@vjeanty02'><img src='./images/Hackerrank.svg' width='38px'/></a>
 
 
