@@ -43,5 +43,5 @@ Name | Badges
 
 ### 🤝 Connect with me
 <a href="mailto:vjeanty02@gmail.com"><img src='https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=#blue' height='50px'></a>
-<a href='https://linkedin.com/in/www.linkedin.com/in/vjeanty02'><img src='https://img.shields.io/badge/LinkedIN-white?style=for-the-badge&logo=linkedin&logoColor=blue' height='50px'/></a>
+<a href='https://linkedin.com/in/vjeanty02'><img src='https://img.shields.io/badge/LinkedIN-white?style=for-the-badge&logo=linkedin&logoColor=blue' height='50px'/></a>
 <a href='https://twitter.com/vjeanty02'><img src='https://img.shields.io/badge/twitter-white?style=for-the-badge&logo=twitter&logoColor=blue' height='50px'/></a>
