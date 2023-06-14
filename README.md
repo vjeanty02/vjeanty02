@@ -1,4 +1,4 @@
-#### Hi there 👋 \n I'm Virlus Jeanty, A passionate and enthusiast Web developer from Haiti.
+#### Hi👋 I'm Virlus Jeanty, A passionate and enthusiast Web developer from Haiti.
 
 - 🔭 I’m currently working on web development projects using HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Django and Python.
 - 🌱 I’m currently learning new technologies and frameworks to improve my skills and create responsive and dynamic websites.
@@ -8,6 +8,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing board games and watching Japanese anime.
 
+#### ❤ Views and Followers
+![Profile Views](https://komarev.com/ghpvc/?username=vjeanty02&color=brightgreen&style=plastic)
+<a href="https://github.com/vjeanty02?tab=followers"><img src="https://img.shields.io/github/followers/vjeanty02?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
 🔭 
