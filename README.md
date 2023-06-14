@@ -1,4 +1,4 @@
-<p style="font-size: 2em; margin-top: 0.67em; margin-bottom: 0.67em; font-weight: bold; text-align:center">Hi 👋, I'm Virlus Jeanty</p>
+<p style="font-size: 10em; margin-top: 0.67em; margin-bottom: 0.67em; font-weight: bold; text-align:center">Hi 👋, I'm Virlus Jeanty</p>
 <h3 align="center">A passionate and enthusiast Web developer from Haiti.</h3>
 
 #### 😉 About Me 
