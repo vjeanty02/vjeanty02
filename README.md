@@ -1,4 +1,4 @@
-<h1 align = "center" >Hi 👋, I'm Virlus Jeanty</p>
+<p align = "center" >Hi 👋, I'm Virlus Jeanty</h1>
 <p align="center">A passionate and enthusiast Web developer from Haiti.</h3>
 
 #### 😉 About Me 
